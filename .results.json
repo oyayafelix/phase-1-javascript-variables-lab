@@ -5,16 +5,16 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-10T11:30:24.838Z",
-    "end": "2022-06-10T11:30:25.191Z",
-    "duration": 353
+    "start": "2022-06-10T11:43:49.871Z",
+    "end": "2022-06-10T11:43:50.225Z",
+    "duration": 354
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
       "file": "/home/moringa/development/code/prework/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -72,7 +72,7 @@
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
       "file": "/home/moringa/development/code/prework/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
